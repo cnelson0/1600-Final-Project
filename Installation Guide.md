@@ -13,4 +13,4 @@
 10. Apply a pea-sized dot of thermal paste to the center of the CPU dye.
 11. Reinstall your CPU cooler with the directions from your manufacturer.
 12. Boot the system and ensure everything is running as it should.
-13. If step 12 is successful, replace your side panels.
+13. If previous step is successful, replace your side panels and enjoy your new CPU!
